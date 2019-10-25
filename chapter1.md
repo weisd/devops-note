@@ -45,3 +45,4 @@ mysql -u root -p
 ```
 ALTER USER 'root'@'localhost' IDENTIFIED BY 'MyNewPass4!';
 ```
+
