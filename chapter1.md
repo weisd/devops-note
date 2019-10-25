@@ -43,5 +43,5 @@ mysql -u root -p
 
 修改root密码
 ```
-grep 'temporary password' /var/log/mysqld.log
+ALTER USER 'root'@'localhost' IDENTIFIED BY 'MyNewPass4!';
 ```
