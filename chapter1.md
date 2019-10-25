@@ -22,7 +22,7 @@ yum install -y mysql-community-server
 启动服务
 
 ```
-yum install -y mysql-community-server
+systemctl start mysqld
 ```
 
 加入开机启动
