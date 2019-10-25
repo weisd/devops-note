@@ -20,6 +20,7 @@ yum install -y mysql-community-server
 ```
 
 启动服务
+
 ```
 yum install -y mysql-community-server
 ```
