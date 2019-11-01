@@ -4,4 +4,5 @@
 * [安装mysql5.7](chapter1.md)
 * [drone安装](dronean-zhuang.md)
 * [安装docker](an-zhuang-docker.md)
+* [centos7安装envoy](centos7an-zhuang-envoy.md)
 
