@@ -6,4 +6,5 @@
 * [安装docker](an-zhuang-docker.md)
 * [centos7安装envoy](centos7an-zhuang-envoy.md)
 * [apollo配置中心安装](apollopei-zhi-zhong-xin-an-zhuang.md)
+* [prometheus部署](prometheusbu-shu.md)
 
