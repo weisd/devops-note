@@ -7,4 +7,5 @@
 * [centos7安装envoy](centos7an-zhuang-envoy.md)
 * [apollo配置中心安装](apollopei-zhi-zhong-xin-an-zhuang.md)
 * [prometheus部署](prometheusbu-shu.md)
+* [golang开发常见问题](golangkai-fa-chang-jian-wen-ti.md)
 
