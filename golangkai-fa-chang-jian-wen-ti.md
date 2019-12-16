@@ -1,5 +1,5 @@
-### 
+# Golang开发常见问题
 
-does not match version-control timestamp
+Q: does not match version-control timestamp
 
-https://tip.golang.org/doc/go1.13#version-validation
+A: https://tip.golang.org/doc/go1.13#version-validation
