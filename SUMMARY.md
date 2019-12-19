@@ -8,4 +8,5 @@
 * [apollo配置中心安装](apollopei-zhi-zhong-xin-an-zhuang.md)
 * [prometheus部署](prometheusbu-shu.md)
 * [golang开发常见问题](golangkai-fa-chang-jian-wen-ti.md)
+* [golang生成随机数](golangsheng-cheng-sui-ji-shu.md)
 
